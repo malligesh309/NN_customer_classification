@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-![alt text](image.png)
+<img width="805" height="713" alt="image" src="https://github.com/user-attachments/assets/78796cf9-f493-47d0-80e5-bd18e8aa4bdf" />
+
 
 ## DESIGN STEPS
 
@@ -182,20 +183,22 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 ```
 
 ## Dataset Information
+<img width="828" height="144" alt="image" src="https://github.com/user-attachments/assets/18773ac6-c8ea-4514-899b-46b86c55151e" />
 
-![alt text](image-1.png)
 
 ## OUTPUT
 
-![alt text](image-2.png)
+<img width="637" height="540" alt="image" src="https://github.com/user-attachments/assets/6ea73cd3-00c2-4ccc-89c7-4a7650174a36" />
+
 
 ### Confusion Matrix
 
-![alt text](image-3.png)
+<img width="201" height="115" alt="image" src="https://github.com/user-attachments/assets/bc44b1b5-f16b-442d-979f-b68f2bc3aa51" />
+
 
 ### Classification Report
+<img width="555" height="268" alt="image" src="https://github.com/user-attachments/assets/a4555bc1-1a08-4473-8a3b-1269b88a0a62" />
 
-![alt text](image-4.png)
 
 ### New Sample Data Prediction
 
